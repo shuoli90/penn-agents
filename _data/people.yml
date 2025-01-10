@@ -8,11 +8,11 @@ instructors:
 
 teaching_assistants:
   - name: GPT4o
-    profile_pic: /_images/pp/potter.jpg
+    profile_pic: /_images/pp/openai_logo.png
     webpage: https://chatgpt.com/
 
   - name: Claude SONNET-3.5
-    profile_pic: /_images/pp/granger.jpg
+    profile_pic: /_images/pp/anthropic_logo.png
     webpage: https://claude.ai/login?returnTo=%2F%3F
 
 #   - name: Ron Weasley
