@@ -1,19 +1,19 @@
 instructors:
   - name: Ahhyun Yuh
-    profile_pic: /_images/pp/dumbledore.jpg
-    # webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
+    # profile_pic: /_images/pp/ay.jpg
+    webpage: https://github.com/lucy0828
   - name: Shuo Li
-    profile_pic: /_images/pp/mcgonagall.jpg
+    profile_pic: /_images/pp/sl.jpeg
     webpage: https://shuoli90.github.io
 
-# teaching_assistants:
-#   - name: Harry Potter
-#     profile_pic: /_images/pp/potter.jpg
-#     webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+teaching_assistants:
+  - name: GPT4o
+    profile_pic: /_images/pp/potter.jpg
+    webpage: https://chatgpt.com/
 
-#   - name: Hermione Granger
-#     profile_pic: /_images/pp/granger.jpg
-#     webpage: https://en.wikipedia.org/wiki/Hermione_Granger
+  - name: Claude SONNET-3.5
+    profile_pic: /_images/pp/granger.jpg
+    webpage: https://claude.ai/login?returnTo=%2F%3F
 
 #   - name: Ron Weasley
 #     profile_pic: /_images/pp/weasley.jpg
