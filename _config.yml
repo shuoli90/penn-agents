@@ -1,13 +1,13 @@
 # Site settings
-course_name: History of Magic
+course_name: Penn Agents
 course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_semester: "Spring 2025"
 
-baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
-url: "http://kazemnejad.github.io/" # the base hostname & protocol for your site
+baseurl: "/penn-agents" # the subpath of your site, e.g. /blog/
+url: "http://shuoli90.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
+schoolurl: "https://upenn.edu"
 twitter_username: username 
 
 address: |
