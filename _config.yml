@@ -1,6 +1,6 @@
 # Site settings
 course_name: Penn Agents
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
+course_description: "We initiate this LLM agent reading group so that we could share, read, and discuss advancements in this field; and potentially foster collaborations."
 course_semester: "Spring 2025"
 
 baseurl: "/penn-agents" # the subpath of your site, e.g. /blog/
@@ -44,9 +44,9 @@ collections:
         output: false
 
 
-# defaults:
-#   - scope:
-#       path: ""
-#       type: "assignments"
-#     values:
-#       layout: "assignment"
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
