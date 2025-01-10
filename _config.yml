@@ -6,14 +6,14 @@ course_semester: "Spring 2025"
 baseurl: "/penn-agents" # the subpath of your site, e.g. /blog/
 url: "http://shuoli90.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
+schoolname: "University of Pennsylvania"
 schoolurl: "https://upenn.edu"
 twitter_username: username 
 
-address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+# address: |
+#     School of Witchcraft and Wizardry
+#     Hogwarts
+#     Scotland
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
