@@ -25,5 +25,5 @@ items:
 
 - url: /thoughts/
   name: Thoughts
-  icon_class: fas fa-thought-bublle
+  icon_class: fas fa-message
 
