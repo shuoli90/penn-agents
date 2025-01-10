@@ -23,7 +23,7 @@ Papers
 LLM Reasoning
 ---
 - Chain-of-Thought Reasoning Without Prompting
-- Large Language Models Cannot Self-Correct Reasoning Yet
+- [Large Language Models Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798)
 - Premise Order Matters in Reasoning with Large Language Models
 - Chain-of-Thought Empowers Transformers to Solve Inherently Serial Problems
 
