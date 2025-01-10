@@ -8,7 +8,7 @@ url: "http://shuoli90.github.io/" # the base hostname & protocol for your site
 
 schoolname: "University of Pennsylvania"
 schoolurl: "https://upenn.edu"
-twitter_username: username 
+# twitter_username: username 
 
 # address: |
 #     School of Witchcraft and Wizardry
