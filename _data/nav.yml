@@ -7,6 +7,10 @@ items:
   name: Schedule
   icon_class: fas fa-calendar-alt
 
+- url: /materials/
+  name: Materials
+  icon_class: fas fa-book
+
 - url: /lectures/
   name: Lectures
   icon_class: fas fa-book-reader
@@ -19,6 +23,7 @@ items:
 #   name: Project
 #   icon_class: fas fa-user-graduate
 
-- url: /materials/
-  name: Materials
-  icon_class: fas fa-book
+- url: /thoughts/
+  name: Thoughts
+  icon_class: fas fa-thought-bublle
+
