@@ -1,7 +1,7 @@
 items:
-- url: /
-  name: Home
-  icon_class: fa fa-home fa-lg
+# - url: /
+#   name: Home
+#   icon_class: fa fa-home fa-lg
 
 - url: /schedule/
   name: Schedule
