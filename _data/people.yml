@@ -15,6 +15,10 @@ teaching_assistants:
     profile_pic: /_images/pp/anthropic_logo.png
     webpage: https://claude.ai/login?returnTo=%2F%3F
 
+  - name: DeepSeek
+    profile_pic: /_images/pp/deepseek.png
+    webpage: https://www.deepseek.com/
+
 #   - name: Ron Weasley
 #     profile_pic: /_images/pp/weasley.jpg
 #     webpage: https://en.wikipedia.org/wiki/Ron_Weasley
