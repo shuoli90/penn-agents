@@ -4,38 +4,25 @@ title: Materials
 permalink: /materials/
 ---
 
-{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
-
-Mind Map
-=====
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
 Papers
 =====
 
 LLM Reasoning
 ---
-- Chain-of-Thought Reasoning Without Prompting
+- [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/abs/2402.10200)
 - [Large Language Models Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798)
-- Premise Order Matters in Reasoning with Large Language Models
-- Chain-of-Thought Empowers Transformers to Solve Inherently Serial Problems
+- [Premise Order Matters in Reasoning with Large Language Models](https://arxiv.org/abs/2402.08939)
+- [Chain-of-Thought Empowers Transformers to Solve Inherently Serial Problems](https://arxiv.org/abs/2402.12875)
 
 LLM agents: brief history
 ---
-- WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents
-- ReAct: Synergizing Reasoning and Acting in Language Models
+- [WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents](https://arxiv.org/abs/2207.01206)
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
 
 Agentic AI Frameworks & AutoGen
 ---
-- AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation
-- StateFlow: Enhancing LLM Task-Solving through State-Driven Workflows
+- [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155)
+- [StateFlow: Enhancing LLM Task-Solving through State-Driven Workflows](https://arxiv.org/abs/2403.11322)
 
 Enterprise trends for generative AI, and key components of building successful agents/applications
 ---
