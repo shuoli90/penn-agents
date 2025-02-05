@@ -8,7 +8,7 @@ hide_from_announcments: false
 links: 
     - url: /static_files/presentations/demo.ipynb
       name: codes
-    - url: [Inference Time Scaling](https://drive.google.com/file/d/1WQ4CXoiOoshczRT9qqS0qJcq_wVpHssE/view?usp=drive_link)
+    - url: https://drive.google.com/file/d/1WQ4CXoiOoshczRT9qqS0qJcq_wVpHssE/view?usp=drive_link
       name: slides
 ---
 **Suggested Readings:**
