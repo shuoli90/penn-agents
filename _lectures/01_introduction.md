@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-02-06T8:00:00+4:30
+date: 2025-02-06T15:30:00+1:00
 title: Introduction to Agent and Inference Time Scaling
 tldr: "We discuss basics about LLM agent; and a brief introduction to DeepSeek-R1."
 thumbnail: /static_files/presentations/agent_1.png
