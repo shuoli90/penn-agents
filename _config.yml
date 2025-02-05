@@ -2,6 +2,7 @@
 course_name: Penn Agents
 course_description: "We initiate this LLM agent reading group so that we could share, read, and discuss advancements in this field; and potentially foster collaborations."
 course_semester: "Spring 2025"
+course_contact: "We are happy to have further discussions and collaborations. Please find us at lishuo1@seas.upenn.edu"
 
 baseurl: "/penn-agents" # the subpath of your site, e.g. /blog/
 url: "http://shuoli90.github.io/" # the base hostname & protocol for your site
