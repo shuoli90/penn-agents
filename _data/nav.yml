@@ -27,3 +27,7 @@ items:
   name: Thoughts
   icon_class: fas fa-comment
 
+- url: /ack/
+  name: Acknowledgement
+  icon_class: fas fa-user-friends
+
