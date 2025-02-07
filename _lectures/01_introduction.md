@@ -8,8 +8,10 @@ hide_from_announcments: false
 links: 
     - url: /static_files/presentations/demo.ipynb
       name: codes
+    - url: https://docs.google.com/presentation/d/1GPYhWNozZFjvSV1oBV9ZRGkVjXwQrmeL8wHJgO70Iyg/edit?usp=sharing
+      name: Basics
     - url: https://drive.google.com/file/d/1WQ4CXoiOoshczRT9qqS0qJcq_wVpHssE/view?usp=drive_link
-      name: slides
+      name: Research
 ---
 **Suggested Readings:**
 - [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
