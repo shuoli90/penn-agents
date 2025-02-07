@@ -4,6 +4,11 @@ title: Materials
 permalink: /materials/
 ---
 
+
+Technical blogs
+=====
+- [LLM Powered Autonomous Agents from Lillian Weng]https://lilianweng.github.io/posts/2023-06-23-agent/
+
 Papers
 =====
 
@@ -75,3 +80,13 @@ Towards Building Safe & Trustworthy AI Agents and A Path for Science‑ and Evid
 - Representation Engineering: A Top-Down Approach to AI Transparency
 - Extracting Training Data from Large Language Models
 - The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks
+
+Test-time Scaling
+---
+- [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393)
+
+General Agent (using LLM)
+---
+- [Open Sourcing $\pi_0$](https://www.pi.website/blog/openpi)
+- [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/abs/2406.09246)
+- [REGENT: A Retrieval-Augmented Generalist Agent That Can Act In-Context In New Environments](https://arxiv.org/abs/2412.04759)
