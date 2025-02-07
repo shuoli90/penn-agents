@@ -7,7 +7,7 @@ permalink: /materials/
 
 Technical blogs
 =====
-- [LLM Powered Autonomous Agents from Lillian Weng]https://lilianweng.github.io/posts/2023-06-23-agent/
+- [LLM Powered Autonomous Agents from Lillian Weng](https://lilianweng.github.io/posts/2023-06-23-agent/)
 
 Papers
 =====
