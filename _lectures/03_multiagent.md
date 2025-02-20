@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-02-06T15:30:00+1:00
+date: 2025-02-20T15:30:00+1:00
 title: Multi-Agent, Multimodal Frameworks 
 tldr: "We discuss design choices for multi-agent, multimodal frameworks."
 thumbnail: /static_files/presentations/agent_3.png
