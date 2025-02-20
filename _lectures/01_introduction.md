@@ -8,7 +8,7 @@ hide_from_announcments: false
 links: 
     - url: /static_files/presentations/demo.ipynb
       name: codes
-    - url: https://docs.google.com/presentation/d/1GPYhWNozZFjvSV1oBV9ZRGkVjXwQrmeL8wHJgO70Iyg/edit?usp=sharing
+    - url: https://drive.google.com/file/d/1oXIAz7Ld2-2ZE_FI6xBjgvhAEtYfdthk/view?usp=drive_link 
       name: Basics
     - url: https://drive.google.com/file/d/1WQ4CXoiOoshczRT9qqS0qJcq_wVpHssE/view?usp=drive_link
       name: Research
