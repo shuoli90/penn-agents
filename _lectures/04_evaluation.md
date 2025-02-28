@@ -1,9 +1,9 @@
 ---
 type: lecture
 date: 2025-02-27T15:30:00+1:00
-title: LLM agents/reasoning benchmarks: an overview
+title: LLM agents and reasoning benchmarks
 tldr: "We propose a framework over current evaluation benchmarks, and discuss potential research topics."
-thumbnail: /static_files/presentations/agent_4.png
+thumbnail: /static_files/presentations/agent_4.jpeg
 hide_from_announcments: false
 links: 
     - url: https://drive.google.com/file/d/1Ibnhgd44SF8C3N8uB6zS0zkwVZpLLCWl/view?usp=drive_link
